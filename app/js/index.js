@@ -3,5 +3,5 @@
  *
  */
 import 'babel-polyfill'
-import './class/test'
+import './class/lession2'
 // import lottery from './lottery'
